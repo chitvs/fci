@@ -1,0 +1,13 @@
+Un router, la cui routing table è riportata sotto, riceve un pacchetto con indirizzo IP di destinazione pari a 73.18.149.68. Indicare su quale interfaccia viene rilanciato.
+
+PREFIX: 73.18.0.0/16; OUT:1
+PREFIX: 73.18.144.0/20; OUT:2
+PREFIX: 73.18.146.0/23; OUT:3
+PREFIX: 0.0.0.0/0; OUT:4
+
+a. 1
+b. 3
+c. 2
+d. 4
+
+*la risposta a questa domanda è fornita da ChatGPT.

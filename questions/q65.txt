@@ -1,0 +1,8 @@
+Per quale motivo il NAT modifica il numero di porta sorgente nei pacchetti che lasciano una rete privata?
+
+a. per motivi di sicurezza
+b. per consentire ad un host nella rete privata di avviare più connessioni parallele con lo stesso server di destinazione nella rete pubblica
+c. per nascondere la socket usata dall'host nella rete privata verso ai dispositivi che si trovano nella rete pubblica
+d. per moltipare correttamente più host della rete privata con lo stesso indirizzo pubblico
+
+*la risposta a questa domanda è fornita da ChatGPT.

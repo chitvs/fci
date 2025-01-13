@@ -1,0 +1,5 @@
+Si consideri un protocollo di controllo d’errore di tipo Go-BACK-N. Sia: 1) ritardo di propagazione pari a 1/3 del tempo di trasmissione di una trama; 2) il tempo di trasmissione dei riscontri pari a 2/3 del tempo di trasmissione di una trama e l’elaborazione nei nodi trascurabile. Quanto deve essere la dimensione minima della finestra in emissione Ws affinché, se non si verificano errori, il trasmettitore sia in grado di trasmettere trame continuamente (senza soluzione di continuità)?
+
+a. Ws=3
+b. Ws=4
+c. Ws=2

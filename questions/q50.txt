@@ -1,0 +1,6 @@
+Con riferimento ad un router, condizione necessaria per poter svolgere correttamente la funzione di instradamento è
+
+a. conoscere lo stato dei links
+b. avere a disposizione le statistiche sul carico in rete
+c. conoscere la topologia di rete
+d. essere in grado di scambiare messaggi con i nodi vicini

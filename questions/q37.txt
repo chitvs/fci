@@ -1,0 +1,5 @@
+La modalità Go-back-N:
+
+a. prevede che la finestra di emissione e la finestra di ricezione siano entrambe di dimensione uguale ad 1
+b. prevede che la finestra di emissione e la finestra di ricezione siano entrambe di dimensione maggiore di 1
+c. prevede che la finestra di emissione sia di dimensione maggiore di 1 e la finestra di ricezione uguale ad 1

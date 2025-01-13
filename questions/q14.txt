@@ -1,0 +1,6 @@
+Si supponga di avere un file di dimensione 40 kByte e di utilizzare una compressione con rapporto di compressione R=8. Se in una line che ha velocita’ di V Mbit/s il file viene trasferito in meno di 0,8 ms, qual è la velocità V della linea?
+
+a. V=40 Mbit/s
+b. V=62,5 Mbit/s
+c. V=6,25 Mbit/s
+d. V=50 Mbit/s

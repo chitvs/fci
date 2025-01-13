@@ -1,0 +1,6 @@
+Quale tabella viene consultata per mappare un indirizzo IP noto con un indirizzo MAC sconosciuto?
+
+a. La tabella di inoltro di uno switch
+b. La tabella ARP
+c. La tabella RARP
+d. La tabella di routing

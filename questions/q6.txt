@@ -1,0 +1,5 @@
+Siamo date le 4 stringhe di 4 bit riportate di seguito: b1) 1001; b2) 1011; b3) 0110; b4) 1010. Qual e' la parola di codice calcolata mediante l'internet checksum?
+
+a. 1 0 0 1
+b. 0 1 1 0
+c. 1 1 1 1

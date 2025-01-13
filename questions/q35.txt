@@ -1,0 +1,6 @@
+Il Dynamic Host Configuration Protocol (DHCP) è un servizio "plug and play", in cui
+
+a. per quanto riguarda i messaggi inviati dalle parti, prevede sempre l'utilizzo dell'indirizzo broadcast come destination address
+b. il client deve preventivamente scoprire l'indirizzo IP del server DHCP
+c. una volta ricevuto un messaggio di "DHCP offer" da parte del server, a questo punto il client ne apprende l'indirizzo IP che verrà successivamente utilizzato per inviare il messaggio di "DHCP request"
+

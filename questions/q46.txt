@@ -1,0 +1,6 @@
+Dato il segnale x(t)=sinc^2(5t), qual è il numero minimo di campioni che devono essere presi in 4s per soddisfare il teorema del campionamento?
+
+a. 40
+b. 20
+c. 10
+d. 50

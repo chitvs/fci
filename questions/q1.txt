@@ -1,0 +1,5 @@
+In una rete caratterizzata dal prefisso 151.168.0.0/23, quanti host possono essere indirizzati al massimo?
+
+a. 256
+b. 1024
+c. 512

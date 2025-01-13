@@ -1,0 +1,5 @@
+Nell’indirizzamento in Internet la maschera di sotto-rete:
+
+a. distingue tra indirizzi in forma binaria e in rappresentazione “dotted”
+b. serve a rendere noto ad ogni sistema in che modo il suo indirizzo IP è suddiviso tra net_id e host_id
+c. specifica la classe di indirizzamento che è stata adottata

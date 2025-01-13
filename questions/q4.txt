@@ -1,0 +1,5 @@
+I processi applicativi che sono attivi in un host ricevono i dati di propria competenza grazie:
+
+a. alle informazioni contenute nei campi indirizzo di destinazione e tipo di protocollo del pacchetto IP che porta i dati.
+b. alle informazioni di indirizzamento contenute nei dati stessi.
+c. alla funzione di indirizzamento svolta dal livello di trasporto (UDP, TCP).

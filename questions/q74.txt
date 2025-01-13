@@ -1,0 +1,8 @@
+Una quantizzazione con M=256 intervalli, necessita un numero minimo di bit pari a:
+
+a. 10
+b. 128
+c. 8
+d. 7
+
+*la risposta a questa domanda è fornita da ChatGPT.

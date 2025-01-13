@@ -1,0 +1,5 @@
+In una connessione TCP l’ultimo aggiornamento della dimensione della finestra è di 10000 ottetti, mentre l’ultimo Acknowledgment Number (AN) ricevuto è 22001. Se l’entità TCP A riceve un segmento con AN=24001 senza aggiornamenti sulla dimensione della finestra, come viene modificata la finestra in emissione?
+
+a. il limite inferiore viene spostato in 24001, mentre il limite superiore viene posizionato in 34000
+b. il limite inferiore viene spostato in 24002, mentre il limite superiore è lasciato invariato
+c. il limite inferiore rimane invariato, mentre il limite superiore viene posizionato in 34000

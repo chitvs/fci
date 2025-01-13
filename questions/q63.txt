@@ -1,0 +1,9 @@
+Si consideri la seguente struttura di una rete di un'amministrazione a cui è stato assegnato un prefisso 198.100.0.0/22 con tre sottoreti distinte interconnesse come in figura e con gli indirizzi IP ivi riportati.
+
+Circa la tabella di routing del router R0, quale delle seguenti soluzioni è corretta e risulta più efficiente ai fini dell'instradamento dei pacchetti verso le tre sottoreti?
+
+a. Che la tabella abbia una sola riga per l'instradamento con prefisso di rete 198.100.0.0 e maschera /22 che può essere associata ad I1 o I2 a seconda del matching del pacchetto entrante.
+b. Che la tabella abbia tre righe per l'instradamento: una con prefisso di rete 198.100.0.0 e maschera /24 associata ad I1, una con prefisso di rete 198.100.1.0 e maschera /24 associata ad I1, una con prefisso di rete 198.100.2.0 e maschera /23 associata a I2.
+c. Che la tabella abbia due righe per l'instradamento: una con prefisso di rete 198.100.0.0 e maschera /24 associata ad I1, una con prefisso di rete 198.100.1.0 e maschera /23 associata ad I2.
+
+*(domanda incompleta?), la risposta a questa domanda è fornita da ChatGPT.

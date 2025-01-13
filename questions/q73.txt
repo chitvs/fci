@@ -1,0 +1,8 @@
+Il servizio di controllo di flusso di TCP mira a:
+
+a. Evitare che segmenti duplicati vengano consegnati al receiver
+b. Garantire la consegna in ordine dei messaggi inviati dal sender al receiver
+c. Limitare il tasso trasmissivo del sender in funzione dello spazio residuo nel buffer della socket del receiver
+d. Limitare il tasso trasmissivo del sender in funzione dello spazio residuo nel buffer del router collegato al link collo di bottiglia
+
+*la risposta a questa domanda è fornita da ChatGPT.

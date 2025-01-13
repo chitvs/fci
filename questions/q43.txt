@@ -1,0 +1,5 @@
+Con riferimento alla funzione di verifica di errore, realizzata usando un codice polinomiale (CRC), si può affermare che:
+
+a. se il ricevitore rivela la presenza di errori, la PDU è sicuramente errata; se non rivela errori, è probabile che sia corretta.
+b. se il ricevitore rivela la presenza di errori, la PDU è probabilmente errata; se non rivela errori, la PDU è certamente corretta.
+c. l’esito della verifica rivela in ogni caso con certezza lo stato errato o corretto della PDU.

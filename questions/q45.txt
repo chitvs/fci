@@ -1,0 +1,5 @@
+Ad un grande internet service provider [ISP] sono stati assegnati un insieme di 4096 blocchi contigui di indirizzi di classe C a partire dall'indirizzo 151.16.0.0. Questo ISP gestisce un insieme di 4 provider di minori dimensioni indicati con A, B, C, D, la richiesta minima di questi provider è di NA=5, NB=10, NC=72, ND=250 blocchi di indirizzi di classe C. Supponendo che l'ISP assegni blocchi di indirizzi contigui ad ogni provider a partire dal provider A ed in modo che ogni provider sia caratterizzato da un unico prefisso, qual è il prefisso che sarà assegnato al router del provider D?
+
+a. 151.16.0.0/21
+b. 151.16.87.0/16
+c. 151.16.87.0/15

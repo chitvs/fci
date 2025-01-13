@@ -1,0 +1,5 @@
+Nel caso si usi una tecnica di accesso multiplo con allocazione dinamica, il protocollo MAC
+
+a. è necessario per svolgere la funzione di coordinamento nella condivisione dinamica della capacità del mezzo multiaccesso
+b. è un elemento opzionale dell'architettura dei protocolli, utile per migliorare le prestazioni in termini di efficienza di utilizzazione del mezzo multiaccesso
+c. è necessario per proteggere dagli errori le unità di dati trasmesse sul mezzo multiaccesso

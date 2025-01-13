@@ -1,0 +1,6 @@
+Il modello OSI mira a rappresentare:
+
+a. le interazioni che avvengono tra la CPU di un computer e i processi del sistema
+b. le interazioni che avvengono tra sistemi differenti interconnessi in rete
+c. esclusivamente gli scambi di messaggi che si hanno tra host e server di Internet
+d. le interazioni tra le applicazioni degli utenti e i sistemi che servono a farle comunicare

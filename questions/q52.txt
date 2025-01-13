@@ -1,0 +1,6 @@
+La trasformata di Fourier tempo discreto (Discrete Time Fourier Transform, DTFT) di x_n è
+
+a. continua e aperiodica
+b. periodica solo se x_n è periodica
+c. discreta
+d. continua e periodica

@@ -1,0 +1,5 @@
+In una rete in area locale che adotta la tecnologia IEEE 802.3, uno Switch
+
+a. filtra le trame che hanno come indirizzo MAC di destinazione l’indirizzo di broadcast
+b. non influisce sulla velocità di trasferimento sperimentata dalle stazioni attestate sulle sue porte
+c. separa i domini di collisione su tutte le interfacce

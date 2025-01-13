@@ -1,0 +1,6 @@
+Qual è l'obiettivo primario dello Spanning Tree Protocol utilizzato nelle switched LAN?
+
+a. Scegliere il cammino più breve per instradare le trame (frame) tra gli switch
+b. Prevenire "switching loops" in reti LAN dove sono presenti cammini ridondanti tra gli switch
+c. Riempire le "switching table" degli switch con i cammini a costo minimo per raggiungere tutti gli host della LAN
+d. Prevenire "routing loops" in reti LAN dove sono presenti cammini ridondanti tra i router

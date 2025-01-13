@@ -1,0 +1,5 @@
+Un’applicazione residente nell'host A scambia dati con due altre applicazioni residenti in host distinti B e C, in quale modo l'host A distingue le due connessioni TCP utilizzate?
+
+a. dai diversi valori dei relativi socket e, in particolare, dai diversi valori degli indirizzi IP dei due host B e C
+b. dai diversi valori dei relativi socket e, in particolare, dai diversi valori dei numeri di porta assegnati per indirizzare le applicazioni dagli host B e C
+c. dai diversi valori dei relativi socket e, in particolare, dai diversi valori dei campi protocol negli host B e C

@@ -1,0 +1,5 @@
+Qual è la principale differenza tra accodamento e perdita nel contesto del packet switching?
+
+a. L’accodamento è il processo di instradamento dei pacchetti da un nodo a un altro uno dietro l’altro, mentre la perdita è la probabilità che i pacchetti vadano persi durante la trasmissione a causa di interferenze.
+b. L’accodamento si riferisce alla temporanea memorizzazione dei pacchetti in attesa di essere trasmessi, mentre la perdita si verifica quando i pacchetti vengono eliminati a causa di una congestione eccessiva nella rete.
+c. L’accodamento si verifica quando il rate di arrivo dei pacchetti eccede la capacità del collegamento in uscita per un periodo limitato di tempo, mentre la perdita si verifica quando un pacchetto subisce danni irreparabili e non può essere consegnato correttamente.

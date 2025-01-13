@@ -1,0 +1,5 @@
+La trasmissione numerica in banda traslata permette
+
+a. di aumentare il bit rate di trasmissione utilizzando bande con portanti ad alte frequenze
+b. di collocare la trasmissione di un segnale digitale in specifiche bande di frequenza
+c. di aumentare la distanza di trasmissione percorsa dal segnale utilizzando bande con portanti a basse frequenze

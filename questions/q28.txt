@@ -1,0 +1,5 @@
+Si considerino i tre nodi A, B, C, che trasmettono in modalità accesso multiplo slotted ALOHA. Data l’evoluzione temporale delle trasmissioni riportata in figura, completando quello che accade sul mezzo condiviso, qual è la portata utile normalizzata nella finestra temporale F?
+
+a. 1
+b. 0,66
+c. 0,83

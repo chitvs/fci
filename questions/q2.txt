@@ -1,0 +1,6 @@
+Avendo un canale in banda traslata di dimensione 40 MHz:
+
+a. Si puo' avere sempre solo una singola comunicazione digitale per volta di banda 40 MHz
+b. Si puo' avere sempre solo una singola comunicazione digitale per volta di banda 20 MHz
+c. Con una multiplazione FDM si possono teoricamente multiplare fino a 10 comunicazioni digitali con occupazione di banda 2 MHz ognuna
+d. Con una multiplazione FDM si possono teoricamente multiplare fino a 20 comunicazioni digitali con occupazione di banda 2 MHz ognuna

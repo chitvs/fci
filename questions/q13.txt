@@ -1,0 +1,7 @@
+Con riferimento alla funzione di verifica di errore, si consideri il seguente codice polinomiale (CRC)
+X^5 + X^4 + X + 1
+Questo polinomio:
+
+a. è in grado di rivelare solo errori isolati di molteplicità dispari (1, 3, 5 errori)
+b. è in grado di rivelare stringhe di errore a raffica di lunghezza 5
+c. è in grado di rivelare solo errori isolati di molteplicità uguale a 5

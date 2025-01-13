@@ -1,0 +1,6 @@
+Con riferimento alle funzioni svolte dal piano di controllo, indicare quale delle seguenti affermazioni è errata:
+
+a. è realizzato in software, mediante lo sviluppo di algoritmi di ottimizzazione
+b. una delle funzioni principali svolte dal piano di controllo è l’indirizzamento
+c. Internet utilizza un piano di controllo distribuito
+d. lavora su scale temporali molto maggiori rispetto al piano dei dati

@@ -1,0 +1,8 @@
+Dato il segnale x(t)=cos(2π5t), quale intervallo di campionamento Ts consente una perfetta ricostruzione del segnale?
+
+a. 0,90
+b. 5
+c. 0,2
+d. 0,09
+
+*la risposta a questa domanda è fornita da ChatGPT.

@@ -1,0 +1,5 @@
+In una rete CDMA/CD la massima distanza tra due stazioni è di 2000 m. Qual è il minimo tempo di trasmissione di una trama se la velocità di propagazione sul mezzo è di 4 * 10^4 m/sec?
+
+a. 0,1 s
+b. 2 s
+c. 0,05 s

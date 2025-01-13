@@ -1,0 +1,8 @@
+Con riferimento ad uno scenario di comunicazione che coinvolge N stazioni che condividono un canale di banda B:
+
+a. Se N è minore di B, allora conviene usare la commutazione di circuito
+b. In ogni caso conviene scegliere la commutazione di pacchetto, in quanto consente di servire un numero maggiore di utenti
+c. La scelta tra commutazione di circuito o di pacchetto dipende principalmente dalle caratteristiche delle sorgenti di traffico
+d. In ogni caso conviene scegliere la commutazione di circuito, in quanto garantisce prestazioni deterministiche
+
+*la risposta a questa domanda è fornita da ChatGPT.

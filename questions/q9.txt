@@ -1,0 +1,5 @@
+Con riferimento all’operazione di multiplazione dinamica di Unità Informative (UI) su un canale condiviso :
+
+a. non si verificano mai contese di utilizzazione
+b. si possono verificare contese di utilizzazione quando il canale multiplato è impegnato e quindi non disponibile per il trasferimento immediato di una UI
+c. le contese di utilizzazione si possono verificare solo se i buffer di multiplazione non sono adeguatamente dimensionati

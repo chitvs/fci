@@ -1,0 +1,8 @@
+Che cosa si intende per effetto pipeline nel contesto della comunicazioni tra sistemi terminali?
+
+a. la possibilità, da parte della sorgente, di inviare i pacchetti senza soluzione di continuità
+b. la condivisione equa della banda di un link collo di bottiglia tra tutti i flussi che lo attraversano
+c. la necessità della sorgente di attendere la ricezione del pacchetto precedente da parte della destinazione, prima di inviare il successivo
+d. il fenomeno che porta al riempimento del buffer di un router
+
+*la risposta a questa domanda è fornita da ChatGPT.

@@ -1,0 +1,6 @@
+Indicare quale tra i seguenti è un protocollo di routing:
+
+a. ICMP
+b. BGP
+c. ARP
+d. DHCP

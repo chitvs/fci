@@ -1,0 +1,6 @@
+Specificare l'indirizzo broadcast della rete 74.18.128.0/19
+
+a. 74.18.191.255
+b. 74.18.255.255
+c. 74.18.159.255
+d. 74.18.128.255

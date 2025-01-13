@@ -1,0 +1,8 @@
+Si consideri una LAN commutata rappresentata da una topologia a stella, con 4 hosts ed uno switch Ethernet come centro stella. Ciascun host è collegato all’omonima porta dello switch (es. H1 alla porta 1). Considerando l’invio di un frame da H1 ad H4, allora:
+
+a. Se lo switch non ha regole per raggiungere H4 nella sua switch table, allora emette una ARP request per scoprire a quale porta questo è collegato
+b. Se l’associazione tra indirizzo MAC di H4 e la relativa porta di uscita non è nota allo switch, allora il frame viene rilanciato su tutte le porte di uscita tranne quella dove si trova H1
+c. Nel caso questo non sia il primo scambio tra H1 e qualsiasi altro host lo switch inoltra su tutte le sue porte il messaggio a parte la porta dove si trova H1
+d. Nel caso in cui questo sia il primo scambio tra i due hosts, allora lo switch apprende l’associazione tra l’indirizzo MAC di H4 e la porta a cui questo è raggiungibile e inoltra il frame su tale*
+
+*(domanda incompleta?)

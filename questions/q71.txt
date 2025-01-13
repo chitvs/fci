@@ -1,0 +1,8 @@
+In quale occasione un sender TCP Reno dimezza il valore della congestion window?
+
+a. In seguito alla ricezione di un ACK in cui il valore della receive window è pari alla metà della congestion window
+b. In seguito ad una perdita rivelata attraverso un evento di RTO
+c. Quando la dimensione della congestion window eccede la SSThreshold
+d. In seguito ad una perdita rivelata attraverso la ricezione di tre ACK duplicati
+
+*la risposta a questa domanda è fornita da ChatGPT.

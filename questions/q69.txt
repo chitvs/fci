@@ -1,0 +1,10 @@
+Si consideri la seguente rete locale con uno switch avente la tabella di inoltro compilata come in figura.
+
+Si assuma che in un dato istante E trasmetta un frame avente come destinazione B. Su quali interfacce lo switch rilancerà tale frame?
+
+a. Su tutte le interfacce tranne la 5
+b. Su tutte le interfacce tranne la 5 e la 1
+c. Solo sull’interfaccia 2
+d. Su tutte le interfacce
+
+*la risposta a questa domanda è fornita da ChatGPT.

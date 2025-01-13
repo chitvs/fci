@@ -1,0 +1,12 @@
+Si assuma che un router, la cui routing table è riportata sotto, riceva un pacchetto con indirizzo IP di destinazione pari a 10.71.164.37. Indicare attraverso quale interfaccia verrà rilanciato il pacchetto.
+
+Destination Prefix Out Interface
+10.71.0.0/16        1
+10.71.128.0/17      2
+10.71.128.0/18      3
+10.71.128.0/19      4
+
+a. 3
+b. 2
+c. 4
+d. 1

@@ -1,0 +1,6 @@
+Si consideri lo scenario di rete mostrato in figura, in cui il routing è gestito mediante protocollo Distance Vector. Inizialmente il protocollo è arrivato a convergenza, perciò i percorsi usati sono quelli a costo minimo. Successivamente il costo del collegamento tra i router C e D diventa pari a 10. Indicare cosa succede immediatamente dopo relativamente al percorso per la destinazione P.
+
+a. il router C individua il percorso alternativo C-A-B-D
+b. si verifica un loop
+c. il router C continua ad usare il percorso C-D
+d. il router C individua il percorso alternativo C-B-D

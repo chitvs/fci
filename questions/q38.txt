@@ -1,0 +1,5 @@
+Con il termine Supernetting si intende
+
+a. l’aggregazione di più blocchi di indirizzi contigui in un unico blocco a cui è associata una maschera di lunghezza minore rispetto a quelle dei blocchi di partenza
+b. l’aggregazione di più blocchi di indirizzi in un unico blocco a cui è associata una maschera di lunghezza maggiore rispetto a quelle dei blocchi di partenza
+c. la separazione di un blocchi di indirizzi in più blocchi con maschere di lunghezza maggiore rispetto alla maschera del blocco di partenza

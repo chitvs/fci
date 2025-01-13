@@ -1,0 +1,8 @@
+La trasformata di Fourier del segnale x(t)=δ(t+2)x(t)=δ(t+2) è:
+
+a. e^(j−2πf)
+b. e^(j4πf)
+c. e^(j2πf)
+d. 1
+
+*la risposta a questa domanda è fornita da ChatGPT.

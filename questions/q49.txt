@@ -1,0 +1,8 @@
+Dato lo schema di figura, indicare il numero di reti LAN presenti.
+
+a. 4
+b. 7
+c. 8
+d. 6
+
+*la risposta a questa domanda è fornita da ChatGPT.
