@@ -41,13 +41,23 @@ def interactive_quiz():
 
         correct_answer = extract_correct_answer(answer_file_path)
 
-        answer = input("Your answer (type 'stop' to exit): ")
-        if answer.strip().lower() == "stop":
-            print("\nQuiz Interrupted")
-            i -= 1 #stop isn't an iteration
-            break
+        while True:
+            answer = input("Your answer (type 'stop' to exit): ").strip().lower()
+            
+            if answer == "stop":
+                print("\nQuiz Interrupted")
+                i -= 1  # Stop doesn't count as an iteration
+                break
+                
+            if answer not in ["a", "b", "c", "d"]:
+                print("Wrong answer format! Please type 'a', 'b', 'c', or 'd'.")
+                continue
 
-        answers[f"Question {i + 1}"] = answer
+            answers[f"Question {i + 1}"] = answer
+            break
+            
+        if answer == "stop":
+            break
 
         if correct_answer and answer.strip().lower() == correct_answer.lower():
             score += 1
@@ -61,4 +71,3 @@ def interactive_quiz():
 
 if __name__ == "__main__":
     interactive_quiz()
-
