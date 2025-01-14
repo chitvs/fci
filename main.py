@@ -44,7 +44,7 @@ def interactive_quiz():
         answer = input("Your answer (type 'stop' to exit): ")
         if answer.strip().lower() == "stop":
             print("\nQuiz Interrupted")
-            i -= 1
+            i -= 1 #stop isn't an iteration
             break
 
         answers[f"Question {i + 1}"] = answer
@@ -53,7 +53,7 @@ def interactive_quiz():
             score += 1
             print("Correct!")
         else:
-            print(f"Wrong :(, correct answer was {correct_answer.lower()}")
+            print(f"Wrong :(, correct answer was {correct_answer.lower()}.")
             
         print(f"Current score: {score} / {i+1}")
 
