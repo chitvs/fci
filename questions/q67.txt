@@ -1,3 +1,5 @@
+7 - Febbraio 2024
+
 Con riferimento ad uno scenario di comunicazione che coinvolge N stazioni che condividono un canale di banda B:
 
 a. Se N è minore di B, allora conviene usare la commutazione di circuito

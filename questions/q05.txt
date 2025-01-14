@@ -1,3 +1,5 @@
+5 - Febbraio 2023
+
 Qual è l'obiettivo primario dello Spanning Tree Protocol utilizzato nelle switched LAN?
 
 a. Scegliere il cammino più breve per instradare le trame (frame) tra gli switch

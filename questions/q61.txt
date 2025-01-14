@@ -1,3 +1,5 @@
+1 - Febbraio 2024
+
 Che cosa si intende per effetto pipeline nel contesto della comunicazioni tra sistemi terminali?
 
 a. la possibilità, da parte della sorgente, di inviare i pacchetti senza soluzione di continuità

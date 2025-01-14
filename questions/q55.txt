@@ -1,3 +1,5 @@
+11 - Gennaio 2024
+
 Nel contesto del protocollo CSMA/CD, se un dispositivo di rete (una NIC) ha sperimentato 8 collisioni consecutive, viene generato un numero che:
 
 a. Stabilisce randomicamente nella finestra {0 - 8} il numero massimo di tentativi di trasmissione che il dispositivo può effettuare prima di sospendere temporaneamente le nuove trasmissioni, contribuendo a evitare congestioni eccessive.

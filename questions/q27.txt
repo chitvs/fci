@@ -1,3 +1,5 @@
+12 - Gennaio 2023
+
 Con riferimento alla topologia fisica mostrata in figura, determinare il numero di sotto-reti.
 
 a. 5

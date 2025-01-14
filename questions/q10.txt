@@ -1,3 +1,5 @@
+10 - Febbraio 2023
+
 Lo schema di indirizzamento di livello 2 completamente non gerarchico delle LAN IEEE 802 (indirizzi a 48 bit) ha il principale vantaggio di:
 
 a. rendere univoca l’identificazione dell’applicazione della stazione sulla LAN

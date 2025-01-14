@@ -1,3 +1,5 @@
+10 - Gennaio 2023
+
 Avendo un canale in banda traslata di dimensione 40 MHz:
 
 a. Con una multiplazione FDM si possono teoricamente multiplare fino a 10 comunicazioni digitali con occupazione di banda 2 MHz ognuna

@@ -1,3 +1,5 @@
+14 - Gennaio 2023
+
 Due sistemi terminali stanno scambiando messaggi utilizzando una connessione TCP. Al tempo T=10 secondi, istante in cui si verifica un evento di RTO, la congestion window ha una dimensione pari a 36 MSS. Assumendo che l’RTT è costante e pari a 100 millisecondi, indicare la dimensione della congestion window all’istante T1=10,3 secondi.
 
 a. 3 MSS

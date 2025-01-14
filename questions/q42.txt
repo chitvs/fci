@@ -1,3 +1,5 @@
+12 - Gennaio 2022
+
 Siamo date le 4 stringhe di 4 bit riportate di seguito: b1) 1101; b2) 1011; b3) 1101; b4) 0010. Qual e' la parola di codice calcolata mediante l’internet checksum?
 
 a. 0110

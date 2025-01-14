@@ -1,3 +1,5 @@
+2 - Febbraio 2023
+
 Avendo un canale in banda traslata di dimensione 40 MHz:
 
 a. Si puo' avere sempre solo una singola comunicazione digitale per volta di banda 40 MHz

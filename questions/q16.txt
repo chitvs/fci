@@ -1,3 +1,5 @@
+1 - Gennaio 2023
+
 Una multiplazione statica opera su un canale suddiviso in Intervalli Temporali (IT) e organizzato in trame. La trama ha la durata di 0.5 ms. Ciascun IT contiene 10 bit. Qual'è il numero minimo di IT che debbono essere assegnati per servire con sovramultiplazione una sorgente continua che emette al ritmo binario di 35 Mbit/s?
 
 a. 1

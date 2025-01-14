@@ -1,3 +1,5 @@
+6 - Gennaio 2022
+
 La trasmissione numerica in banda traslata permette
 
 a. di aumentare il bit rate di trasmissione utilizzando bande con portanti ad alte frequenze

@@ -1,3 +1,5 @@
+3 - Febbraio 2024
+
 Si consideri la seguente struttura di una rete di un'amministrazione a cui è stato assegnato un prefisso 198.100.0.0/22 con tre sottoreti distinte interconnesse come in figura e con gli indirizzi IP ivi riportati.
 
 Circa la tabella di routing del router R0, quale delle seguenti soluzioni è corretta e risulta più efficiente ai fini dell'instradamento dei pacchetti verso le tre sottoreti?

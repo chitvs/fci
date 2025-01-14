@@ -1,3 +1,5 @@
+15 - Febbraio 2023
+
 Si consideri un brano musicale analogico di durata di 5 minuti con banda di 15 kHz, se lo si campiona con la frequenza di campionamento minima e si utilizzano 8 bit per ogni campione, qual è la lunghezza del brano digitalizzato risultante?
 
 a. 72 Mbyte

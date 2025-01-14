@@ -1,3 +1,5 @@
+1 - Febbraio 2023
+
 In una rete caratterizzata dal prefisso 151.168.0.0/23, quanti host possono essere indirizzati al massimo?
 
 a. 256

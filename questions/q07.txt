@@ -1,3 +1,5 @@
+7 - Febbraio 2023
+
 Quale tabella viene consultata per mappare un indirizzo IP noto con un indirizzo MAC sconosciuto?
 
 a. La tabella di inoltro di uno switch

@@ -1,3 +1,5 @@
+7 - Gennaio 2024
+
 La trasformata di Fourier tempo discreto (Discrete Time Fourier Transform, DTFT) di x_n è
 
 a. continua e aperiodica

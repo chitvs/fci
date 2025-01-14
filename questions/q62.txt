@@ -1,3 +1,5 @@
+2 - Febbraio 2024
+
 Si consideri la seguente architettura di rete con indirizzi IP e MAC come riportati in figura. 
 
 Quale delle seguenti risposte (ARP Reply) segue un ARP request del tipo:

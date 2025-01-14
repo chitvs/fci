@@ -1,3 +1,5 @@
+14 - Gennaio 2022
+
 In una procedura di recupero d’errore si adotta un modulo di numerazione uguale a 8. Si ipotizza che l’entità emittente (A) utilizzi una finestra in emissione che ha larghezza 2 e che questa abbia in un dato istante limite inferiore uguale a 3. Come reagisce A ricevendo dal ricevente (B) una PDU con numero di sequenza in ricezione Rnext=5?
 
 a. Mantiene il limite inferiore al valore 3

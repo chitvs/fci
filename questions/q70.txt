@@ -1,3 +1,5 @@
+10 - Febbraio 2024
+
 Per quale motivo è importante utilizzare il DHCP in una rete wi-fi pubblica (ad esempio un'aula universitaria)?
 
 a. Perché il DHCP può evitare conflitti di accesso MAC tra due o più dispositivi nella stessa rete

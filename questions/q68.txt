@@ -1,3 +1,5 @@
+8 - Febbraio 2024
+
 La trasformata di Fourier del segnale x(t)=δ(t+2)x(t)=δ(t+2) è:
 
 a. e^(j−2πf)

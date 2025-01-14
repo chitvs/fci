@@ -1,3 +1,5 @@
+9 - Gennaio 2024
+
 Considerando un algoritmo di controllo dell'errore a livello di collegamento basato su CRC con polinomio generatore x^3 + x^2 + 1, se l'header di una trama di livello di collegamento è di 3 bit e il campo payload è di 5 bit, quale delle seguenti affermazioni descrive correttamente la lunghezza totale della trama?
 
 a. Non è possibile calcolare a priori la lunghezza totale della trama perché dipende dal risultato del calcolo del CRC.

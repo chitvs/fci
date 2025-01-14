@@ -1,3 +1,5 @@
+11 - Febbraio 2023
+
 Nell’indirizzamento in Internet la maschera di sotto-rete:
 
 a. distingue tra indirizzi in forma binaria e in rappresentazione “dotted”

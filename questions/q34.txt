@@ -1,3 +1,5 @@
+4 - Gennaio 2022
+
 Si supponga di avere un file di dimensione 300 kByte. Se lo trasmetto attraverso una linea che ha velocità di 5 Mbit/s, quale deve essere il rapporto di compressione R tale per cui il file viene trasferito in meno di 24 ms?
 
 a. R=0,05

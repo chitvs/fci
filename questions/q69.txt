@@ -1,3 +1,5 @@
+9 - Febbraio 2024
+
 Si consideri la seguente rete locale con uno switch avente la tabella di inoltro compilata come in figura.
 
 Si assuma che in un dato istante E trasmetta un frame avente come destinazione B. Su quali interfacce lo switch rilancerà tale frame?

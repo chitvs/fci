@@ -1,3 +1,5 @@
+4 - Febbraio 2024
+
 Dato il segnale x(t)=cos(2π5t), quale intervallo di campionamento Ts consente una perfetta ricostruzione del segnale?
 
 a. 0,90

@@ -1,3 +1,5 @@
+11 - Gennaio 2022
+
 In una rete in area locale che adotta la tecnologia IEEE 802.3, uno Switch
 
 a. filtra le trame che hanno come indirizzo MAC di destinazione l’indirizzo di broadcast

@@ -1,3 +1,5 @@
+8 - Gennaio 2023
+
 Avendo a disposizione un prefisso /24 e considerando lo scenario di rete mostrato in figura, determinare quale tra i seguenti indirizzi può essere assegnato all’interfaccia del router connessa alla LAN B.
 
 a. 10.0.1.193

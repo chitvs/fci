@@ -1,3 +1,5 @@
+5 - Gennaio 2022
+
 Il Dynamic Host Configuration Protocol (DHCP) è un servizio "plug and play", in cui
 
 a. per quanto riguarda i messaggi inviati dalle parti, prevede sempre l'utilizzo dell'indirizzo broadcast come destination address

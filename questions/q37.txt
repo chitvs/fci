@@ -1,3 +1,5 @@
+7 - Gennaio 2022
+
 La modalità Go-back-N:
 
 a. prevede che la finestra di emissione e la finestra di ricezione siano entrambe di dimensione uguale ad 1

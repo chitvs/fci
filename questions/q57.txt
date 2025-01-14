@@ -1,3 +1,5 @@
+13 - Gennaio 2024
+
 Si assuma che un router, la cui routing table è riportata sotto, riceva un pacchetto con indirizzo IP di destinazione pari a 10.71.164.37. Indicare attraverso quale interfaccia verrà rilanciato il pacchetto.
 
 Destination Prefix Out Interface

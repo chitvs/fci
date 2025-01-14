@@ -1,3 +1,5 @@
+14 - Gennaio 2024
+
 Si consideri la seguente architettura di rete con indirizzi IP e MAC come riportati in figura. Quale delle seguenti risposte (ARP Reply) segue un ARP request del tipo: "Who has address 151.100.24.3? Tell 151.100.24.2".
 
 a. 151.100.24.1 is at 00-08-74-4C-7F-3C

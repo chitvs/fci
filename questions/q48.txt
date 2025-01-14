@@ -1,3 +1,5 @@
+3 - Gennaio 2024
+
 Si consideri lo scenario di rete mostrato in figura, in cui i numeri associati agli archi rappresentano il costo di attraversamento. Assumendo che nella rete sia in uso il protocollo link state OSPF, indicare il next hop del router A per la destinazione 10.0.0.0/24.
 
 a. D

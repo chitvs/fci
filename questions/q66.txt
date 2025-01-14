@@ -1,3 +1,5 @@
+6 - Febbraio 2024
+
 Si consideri lo scambio tra peer TCP mostrato in figura. Supponendo che A invii a B due segmenti di lunghezza L1=100 byte e L2=50 byte, e che B risponda inviando solo degli ACKs, indicare i valori delle variabili x, y, w, z.
 
 a. x=83;y=195;w=195;z=84x=83;y=195;w=195;z=84

@@ -1,3 +1,5 @@
+5 - Febbraio 2024
+
 Per quale motivo il NAT modifica il numero di porta sorgente nei pacchetti che lasciano una rete privata?
 
 a. per motivi di sicurezza

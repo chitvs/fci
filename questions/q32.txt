@@ -1,3 +1,5 @@
+2 - Gennaio 2022
+
 Se dopo il campionamento di un brano musicale analogico di durata di 2 minuti con banda di 40 kHz, si ottiene un file di dimensione di 48 MByte, quanti bit a campione sono stati utilizzati nella conversione analogico digitale?
 
 a. 5 byte

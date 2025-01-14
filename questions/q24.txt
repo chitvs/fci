@@ -1,3 +1,5 @@
+9 - Gennaio 2023
+
 Il modello OSI mira a rappresentare:
 
 a. le interazioni che avvengono tra la CPU di un computer e i processi del sistema

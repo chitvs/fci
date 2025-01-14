@@ -1,3 +1,5 @@
+3 - Febbraio 2023
+
 In una procedura di recupero d’errore Go-Back-N si adotta una finestra in emissione che ha larghezza 4. Supponendo che lato emittente la finestra abbia in un dato istante limite inferiore uguale a 4. Come reagisce A ricevendo dal ricevente (B) una PDU con numero di sequenza in ricezione Rnext=8?
 
 a. Aggiorna il limite inferiore della finestra al valore 7 e trasmette le trame 7-8

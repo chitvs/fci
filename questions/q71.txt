@@ -1,3 +1,5 @@
+11 - Febbraio 2024
+
 In quale occasione un sender TCP Reno dimezza il valore della congestion window?
 
 a. In seguito alla ricezione di un ACK in cui il valore della receive window è pari alla metà della congestion window

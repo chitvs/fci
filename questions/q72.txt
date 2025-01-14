@@ -1,3 +1,5 @@
+12 - Febbraio 2024
+
 Si considerino due collegamenti punto-punto caratterizzati ciascuno da una banda (R_i, i=1,2) e lunghezza (d_i, i=1,2), sui quali transitano due pacchetti di lunghezza L_j (j=1,2), allora:
 
 a. Se L1==L2, il tempo di trasmissione nel primo link è uguale a quello nel secondo link

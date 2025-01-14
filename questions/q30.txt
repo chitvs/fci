@@ -1,3 +1,5 @@
+15 - Gennaio 2023
+
 Si consideri la rete LAN composta da SWITCH e HUB riportata in Figura dove la numerazione delle porte per tutti i dispositivi è progressiva da sinistra a destra come quella d’esempio riportata per l’HUB1.
 
 Si consideri che è già avvenuto uno scambio di trama tra S2 e S5. Indicare se e come si riempie la tabella dello SW1 al seguito di un frame di risposta di S5 diretto a S2.

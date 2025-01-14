@@ -1,3 +1,5 @@
+11 - Gennaio 2023
+
 Qual è l'obiettivo primario dello Spanning Tree Protocol utilizzato nelle switched LAN?
 
 a. Prevenire "routing loops" in reti LAN dove sono presenti cammini ridondanti tra i router
