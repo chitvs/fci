@@ -53,7 +53,7 @@ def interactive_quiz():
             score += 1
             print("Correct!")
         else:
-            print(f"Wrong :(, correct answer was {answer.strip().lower()}")
+            print(f"Wrong :(, correct answer was {correct_answer.lower()}")
             
         print(f"Current score: {score} / {i+1}")
 
