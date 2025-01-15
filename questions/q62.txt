@@ -9,5 +9,3 @@ a. 151.100.25.5 is at 00-08-78-4C-7F-8F
 b. 151.100.25.5 is at 00-08-74-4C-7F-5E
 c. 151.100.25.1 is at 00-08-74-4C-7F-5E
 d. Non può esistere una tale richiesta in quanto il richiedente si trova in una LAN diversa dal destinatario della richiesta
-
-*la risposta a questa domanda è fornita da ChatGPT.
