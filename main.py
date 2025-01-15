@@ -50,8 +50,8 @@ def interactive_quiz():
                 break
 
             if answer == "skip":
+                i-=1
                 print("Skipping this question.\n")
-                answers[f"Question {i + 1}"] = "skip"
                 break
                 
             if answer not in ["a", "b", "c", "d"]:
