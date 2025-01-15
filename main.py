@@ -45,7 +45,7 @@ def interactive_quiz():
                 break
 
             if answer == "skip":
-                print("Skipping this question.\n")
+                print("\nSkipping this question.")
                 break
 
             if answer not in ["a", "b", "c", "d"]:
