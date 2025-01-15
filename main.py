@@ -50,8 +50,9 @@ def interactive_quiz():
                 break
 
             if answer == "skip":
-                i -= 1
-                continue
+                print("Skipping this question.\n")
+                answers[f"Question {i + 1}"] = "skip"
+                break
                 
             if answer not in ["a", "b", "c", "d"]:
                 print("Wrong answer format! Please type 'a', 'b', 'c', or 'd'.")
@@ -62,6 +63,10 @@ def interactive_quiz():
             
         if answer == "stop":
             break
+
+        if answer == "skip":
+            print(f"Current score: {score} / {i+1}")
+            continue
 
         if correct_answer and answer.strip().lower() == correct_answer.lower():
             score += 1
