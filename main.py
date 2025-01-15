@@ -42,12 +42,16 @@ def interactive_quiz():
         correct_answer = extract_correct_answer(answer_file_path)
 
         while True:
-            answer = input("Your answer (type 'stop' to exit): ").strip().lower()
+            answer = input("Your answer (type 'stop' to exit or 'skip'): ").strip().lower()
             
             if answer == "stop":
                 print("\nQuiz Interrupted")
                 i -= 1  # Stop doesn't count as an iteration
                 break
+
+            if answer == "skip":
+                i -= 1
+                continue
                 
             if answer not in ["a", "b", "c", "d"]:
                 print("Wrong answer format! Please type 'a', 'b', 'c', or 'd'.")
