@@ -44,7 +44,7 @@ def interactive_quiz():
                 print("\nQuiz Interrupted")
                 break
 
-            if answer == "skip":
+            if answer == "skip" or answer == "":
                 print("\nSkipping this question.")
                 break
 
