@@ -1,8 +1,8 @@
-10 - Gennaio 2024
+9 - Gennaio 2024
 
-Con riferimento alle funzioni svolte dal piano di controllo, indicare quale delle seguenti affermazioni è errata:
+Considerando un algoritmo di controllo dell'errore a livello di collegamento basato su CRC con polinomio generatore x^3 + x^2 + 1, se l'header di una trama di livello di collegamento è di 3 bit e il campo payload è di 5 bit, quale delle seguenti affermazioni descrive correttamente la lunghezza totale della trama?
 
-a. è realizzato in software, mediante lo sviluppo di algoritmi di ottimizzazione
-b. una delle funzioni principali svolte dal piano di controllo è l’indirizzamento
-c. Internet utilizza un piano di controllo distribuito
-d. lavora su scale temporali molto maggiori rispetto al piano dei dati
+a. Non è possibile calcolare a priori la lunghezza totale della trama perché dipende dal risultato del calcolo del CRC.
+b. La lunghezza totale della trama sarà di 6 bit.
+c. La lunghezza totale della trama sarà di 11 bit.
+d. La lunghezza totale della trama sarà di 8 bit.

@@ -1,7 +1,8 @@
-11 - Gennaio 2024
+10 - Gennaio 2024
 
-Nel contesto del protocollo CSMA/CD, se un dispositivo di rete (una NIC) ha sperimentato 8 collisioni consecutive, viene generato un numero che:
+Con riferimento alle funzioni svolte dal piano di controllo, indicare quale delle seguenti affermazioni è errata:
 
-a. Stabilisce randomicamente nella finestra {0 - 8} il numero massimo di tentativi di trasmissione che il dispositivo può effettuare prima di sospendere temporaneamente le nuove trasmissioni, contribuendo a evitare congestioni eccessive.
-b. Definire la quantità di dati (8 pacchetti) che possono essere trasmessi senza collisioni, contribuendo a ottimizzare l’efficienza della comunicazione in un ambiente CSMA/CD.
-c. Sarà scelto randomicamente nella finestra {0 - 255} e definirà il periodo di attesa che il dispositivo deve osservare prima di tentare nuovamente l’invio, seguendo una strategia di backoff esponenziale per ridurre le collisioni future.
+a. è realizzato in software, mediante lo sviluppo di algoritmi di ottimizzazione
+b. una delle funzioni principali svolte dal piano di controllo è l’indirizzamento
+c. Internet utilizza un piano di controllo distribuito
+d. lavora su scale temporali molto maggiori rispetto al piano dei dati

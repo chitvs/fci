@@ -1,8 +1,7 @@
-12 - Gennaio 2024
+11 - Gennaio 2024
 
-La trasformata di Fourier del segnale x(t)=sinc(3t) è
+Nel contesto del protocollo CSMA/CD, se un dispositivo di rete (una NIC) ha sperimentato 8 collisioni consecutive, viene generato un numero che:
 
-a. rect(3f)
-b. tri(f)
-c. 1/3rect(f/3)
-d. 1/3tri(f/3)
+a. Stabilisce randomicamente nella finestra {0 - 8} il numero massimo di tentativi di trasmissione che il dispositivo può effettuare prima di sospendere temporaneamente le nuove trasmissioni, contribuendo a evitare congestioni eccessive.
+b. Definire la quantità di dati (8 pacchetti) che possono essere trasmessi senza collisioni, contribuendo a ottimizzare l’efficienza della comunicazione in un ambiente CSMA/CD.
+c. Sarà scelto randomicamente nella finestra {0 - 255} e definirà il periodo di attesa che il dispositivo deve osservare prima di tentare nuovamente l’invio, seguendo una strategia di backoff esponenziale per ridurre le collisioni future.

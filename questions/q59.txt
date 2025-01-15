@@ -1,4 +1,4 @@
-8 - Gennaio 2024
+14 - Gennaio 2024
 
 Si considerino i 4 nodi A, B, C, e D che trasmettono in modalità accesso multiplo slotted ALOHA. Data l’evoluzione temporale delle trasmissioni riportata in figura, completando quello che accade sul mezzo condiviso, qual è la portata utile normalizzata nella finestra temporale F?
 

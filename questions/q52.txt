@@ -1,8 +1,8 @@
 7 - Gennaio 2024
 
-La trasformata di Fourier tempo discreto (Discrete Time Fourier Transform, DTFT) di x_n è
+La trasformata di Fourier del segnale x(t)=sinc(3t) è
 
-a. continua e aperiodica
-b. periodica solo se x_n è periodica
-c. discreta
-d. continua e periodica
+a. rect(3f)
+b. tri(f)
+c. 1/3rect(f/3)
+d. 1/3tri(f/3)
