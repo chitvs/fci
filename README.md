@@ -1,8 +1,8 @@
-# Interactive Quiz
+# Interactive quiz
 
 This repository contains a collection of quiz questions designed for interactive assessments. These questions are primarily focused on topics related to **computer networks**, **signal processing**, **routing protocols**, **TCP**, and other core concepts, making them ideal for anyone preparing for exams or practicing foundational concepts in **telecommunications and internet fundamentals**.
 
-## Repository Structure
+## Repository structure
 
 The repository is organized as follows:
 
@@ -14,7 +14,7 @@ The repository is organized as follows:
 
 - **Answers:** the `/answers` folder contains the correct answers for each question in corresponding `.txt` files (e.g., `q1+.txt`, `q2+.txt`, ...). These are used to validate user responses during the interactive quiz.
 
-## Getting Started
+## Getting started
 
 1. **Clone the repository** to your local machine:
    ```bash
