@@ -36,6 +36,6 @@ The repository is organized as follows:
 
 ## Customization
 
-- **Modify the `main.py` script:** Add new functionalities like scoring systems, time tracking, or support for multiple-choice formats.
-- **Expand the question bank:** Add/edit questions and images in the `/questions` and `/images` folders. Ensure that file naming follows the existing convention for smooth integration.
-- **Apply this structure to other topics or exams:** Use this repository as a template for quizzes in different subjects or areas of study.
+- **Modify the `main.py` script:** add new functionalities like scoring systems, time tracking, or support for multiple-choice formats.
+- **Expand the question bank:** add/edit questions and images in the `/questions` and `/images` folders. Ensure that file naming follows the existing convention for smooth integration.
+- **Apply this structure to other topics or exams:** use this repository as a template for quizzes in different subjects or areas of study.
