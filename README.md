@@ -24,7 +24,7 @@ The repository is organized as follows:
 
 2. **Install Python** (if not already installed on your system).
 
-3. **Run the interactive quiz script:**
+3. **Run the script:**
    ```bash
    python main.py
    ```
