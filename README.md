@@ -1,6 +1,6 @@
 # Interactive quiz
 
-This repository contains a collection of quiz questions designed for interactive assessments. These questions are primarily focused on topics related to **computer networks**, **signal processing**, **routing protocols**, **TCP**, and other core concepts, making them ideal for anyone preparing for exams or practicing foundational concepts in **telecommunications and internet fundamentals**.
+This repository contains a collection of quiz questions designed for interactive assessments. These questions are primarily focused on topics related to **computer networks**, **signal processing**, **routing protocols**, **TCP**, and other core concepts, making them ideal for anyone preparing for exams or practicing foundational concepts in **telecommunications** and **internet fundamentals**.
 
 ## Repository structure
 
