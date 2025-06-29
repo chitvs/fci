@@ -22,7 +22,7 @@ fci/
 
 - Answers: the `/answers` folder contains the correct answers for each question in corresponding `.txt` files (e.g., `q1+.txt`, `q2+.txt`, ...). These are used to validate user responses during the interactive quiz.
 
-## Getting started
+## Running the Python script
 
 1. **Clone the repository** to your local machine:
    ```bash
